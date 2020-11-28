@@ -17,5 +17,5 @@ the input panel provides helpful advice.
 This project has been successfully tested for Python >= 3.8.
 
 ## Install dependencies
->pip install matplotlib
+>pip install matplotlib  
 pip install tqdm
